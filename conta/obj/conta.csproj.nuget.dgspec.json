@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sempo\\source\\repos\\conta\\conta\\conta.csproj": {}
+    "C:\\Users\\Sempo\\OneDrive\\Documents\\IFRO\\Matérias\\PO2\\Programas\\conta\\conta\\conta.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sempo\\source\\repos\\conta\\conta\\conta.csproj": {
+    "C:\\Users\\Sempo\\OneDrive\\Documents\\IFRO\\Matérias\\PO2\\Programas\\conta\\conta\\conta.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sempo\\source\\repos\\conta\\conta\\conta.csproj",
+        "projectUniqueName": "C:\\Users\\Sempo\\OneDrive\\Documents\\IFRO\\Matérias\\PO2\\Programas\\conta\\conta\\conta.csproj",
         "projectName": "conta",
-        "projectPath": "C:\\Users\\Sempo\\source\\repos\\conta\\conta\\conta.csproj",
+        "projectPath": "C:\\Users\\Sempo\\OneDrive\\Documents\\IFRO\\Matérias\\PO2\\Programas\\conta\\conta\\conta.csproj",
         "packagesPath": "C:\\Users\\Sempo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sempo\\source\\repos\\conta\\conta\\obj\\",
+        "outputPath": "C:\\Users\\Sempo\\OneDrive\\Documents\\IFRO\\Matérias\\PO2\\Programas\\conta\\conta\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sempo\\AppData\\Roaming\\NuGet\\NuGet.Config",
