@@ -1,0 +1,15 @@
+C:\Users\Sempo\source\repos\conta\conta\bin\Debug\net6.0\conta.exe
+C:\Users\Sempo\source\repos\conta\conta\bin\Debug\net6.0\conta.deps.json
+C:\Users\Sempo\source\repos\conta\conta\bin\Debug\net6.0\conta.runtimeconfig.json
+C:\Users\Sempo\source\repos\conta\conta\bin\Debug\net6.0\conta.dll
+C:\Users\Sempo\source\repos\conta\conta\bin\Debug\net6.0\conta.pdb
+C:\Users\Sempo\source\repos\conta\conta\obj\Debug\net6.0\conta.csproj.AssemblyReference.cache
+C:\Users\Sempo\source\repos\conta\conta\obj\Debug\net6.0\conta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sempo\source\repos\conta\conta\obj\Debug\net6.0\conta.AssemblyInfoInputs.cache
+C:\Users\Sempo\source\repos\conta\conta\obj\Debug\net6.0\conta.AssemblyInfo.cs
+C:\Users\Sempo\source\repos\conta\conta\obj\Debug\net6.0\conta.csproj.CoreCompileInputs.cache
+C:\Users\Sempo\source\repos\conta\conta\obj\Debug\net6.0\conta.dll
+C:\Users\Sempo\source\repos\conta\conta\obj\Debug\net6.0\refint\conta.dll
+C:\Users\Sempo\source\repos\conta\conta\obj\Debug\net6.0\conta.pdb
+C:\Users\Sempo\source\repos\conta\conta\obj\Debug\net6.0\conta.genruntimeconfig.cache
+C:\Users\Sempo\source\repos\conta\conta\obj\Debug\net6.0\ref\conta.dll
